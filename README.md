@@ -1,4 +1,4 @@
-# LVK Cumulative Detection Plot in O1 – O4c with Lensing Forecast in O5,
+# LVK Cumulative Detection Plot in O1 – O4c with Lensing Forecast in O5
 
 <img src="cumulative_events.png" width="500">
 ## Introduction
