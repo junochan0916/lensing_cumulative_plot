@@ -396,4 +396,5 @@ ax.xaxis.set_label_coords(0.523, -0.060)
 # Save
 fnam = 'cumulative_events'
 plt.savefig(fnam + '.pdf')
+plt.savefig(fnam + '.png')
 plt.close('all')
